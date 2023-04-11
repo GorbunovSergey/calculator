@@ -1,0 +1,14 @@
+.calculator {
+    width: 180px;
+    margin-left: 100px;
+    border: 2px solid black;
+ }
+
+.nums {
+        margin-left: 15px;
+}
+
+input {
+    width: 177px;
+    border: none;
+}
