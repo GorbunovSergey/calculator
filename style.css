@@ -1,14 +1,32 @@
 .calculator {
-    width: 180px;
-    margin-left: 100px;
-    border: 2px solid black;
- }
+  width: 200px;
+  margin-left: 100px;
+  border: 2px solid black;
+}
 
 .nums {
-        margin-left: 15px;
+  margin-left: 15px;
 }
 
 input {
-    width: 177px;
-    border: none;
+  width: 177px;
+  border: none;
+}
+
+.history {
+  width: 200px;
+  height: 100px;
+  margin-left: 100px;
+}
+
+.block {
+  margin-left: 100px;
+}
+
+.block button {
+  padding: 1px;
+}
+
+.btnHistory {
+  width: 70px;
 }
